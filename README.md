@@ -1,39 +1,45 @@
-<h3 data-importer="text" align="left">My name is Dharshan Roshanth V and I'm a B.Tech AI & Data Science student, from Thanjavur, Tamil Nadu, India.</h3>
+### Hey 👋, I'm Dharshan
 
-###
+I'm currently studying **AI & Data Science** at [**Kongu Engineering College**](https://kongu.ac.in) and recently interned as a **Full Stack Dev & Team Lead** at **Copter Code**, based in Thanjavur, Tamil Nadu. I am working on side projects, learning agentic AI workflows, and trying to convert caffeine into commits.
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+[![LinkedIn](https://img.shields.io/badge/-dharshan--roshanth-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshan-roshanth-25jun2005/) [![GitHub](https://img.shields.io/badge/-dharshanroshanth-181717?style=flat&logo=github&logoColor=white)](https://github.com/dharshanroshanth) [![Email](https://img.shields.io/badge/-Email%20me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Dharshanroshanthv.23aid@kongu.edu)
 
-###
+---
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+<table>
+<tr>
+<td valign="top" width="60%">
 
-###
+### 📌 A Few Quick Facts
 
-<div data-importer="socials" align="left">
-  <a href="https://www.instagram.com/dharshanroshann?igsh=M3d3NmxqbGJzcHU2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="dharshanroshantg.it27@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/dharshan-roshanth-25jun2005/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+- 🔭 I'm currently working on **AI-powered monitoring systems** (wildlife, marine, forest-fire)
+- 🌱 Learning about **agentic AI workflows, cloud backend architecture, and distributed systems**
+- 🏆 Most of my projects come from hackathons — I've podium-finished in three of them
+- 📫 Ping me about **React, Next.js, GenAI, or why my code works on the first try (it never does)**
+- ⚡ Fun fact: I led a 10-person team and somehow nobody quit
 
-###
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Recent Builds
+
+- ▶ **WildGuard** — AI wildlife protection & forest-fire monitoring
+- ▶ **AquaGuard** — Smart marine monitoring buoy system (Smart India Hackathon, team lead)
+- ▶ **Photo Toolkit** — AI-powered image editor built at Copter Code
+- ▶ **Automated Timetable Generator** — conflict-free scheduling for colleges
+
+[See all repos →](https://github.com/dharshanroshanth?tab=repositories)
+
+---
+
+### 🛠 Some Tools I Use
+
+![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![Firebase](https://skillicons.dev/icons?i=firebase) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Git](https://skillicons.dev/icons?i=git)
